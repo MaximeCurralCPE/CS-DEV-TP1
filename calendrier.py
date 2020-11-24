@@ -2,7 +2,7 @@
 #24/11/20
 #Maxime Curral
 
-import calendrier_bibliothèque as lib
+import calendrier_lib as lib
 
 #question 1
 print("question 1 :",lib.test_bissextile(2020))
